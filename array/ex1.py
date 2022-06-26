@@ -2,11 +2,11 @@ def compare_feb_in_january(values):
     return values[1] - values[0]
 
 def tree_months(values):
-    sun = 0
+    sum = 0
     for i in range(3):
-        sun += values[i]
+        sum += values[i]
 
-    return sun
+    return sum
 
 def find_2000_dollars(values):
     for i in range(len(values)):
@@ -25,3 +25,5 @@ print(tree_months(values))
 find_2000_dollars(values)
 
 add_expense(values)
+
+##vector.append(100) O(n) -> complexity

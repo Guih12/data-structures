@@ -4,7 +4,7 @@ Let us say your expense for every month are listed below,
  - February - 2350
  - March - 2600
  - April - 2130
--  May - 2190
+ -  May - 2190
 Create a list to store these monthly expenses and using that find out,
 
 1. In Feb, how many dollars you spent extra compare to January?
